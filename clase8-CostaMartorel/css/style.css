@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: white;
+    color: #000000;
+}
+h1 {
+    padding-top: 20px;
+}
+
+li{
+    list-style: none;
+}
+
+div{
+    margin: 10px;
+}
+
+.contenedor{
+    background-color: white;
+    border: 2px solid black;
+}
+
+.contenedor div{
+    border: 2px solid black;
+    border-radius: 25px;
+}
