@@ -3,7 +3,7 @@ let finalPrice = 0;
 let stockQty = 50;
 let priceHoddie = 3300;
 let priceTshirt = 1300;
-let priceEmbrodery = 1000;
+let priceEmbroidery = 1000;
 
 class Product {
   constructor(id, type, quantity, price, number) {
@@ -24,9 +24,9 @@ const product6 = new Product(6, "Buzo EGO", stockQty, priceHoddie, 0);
 const product7 = new Product(7, "Remera FIRE", stockQty - 30, priceTshirt, 0);
 const product8 = new Product(8, "Remera SOOBIN", stockQty - 40, priceTshirt, 0);
 const product9 = new Product(9, "Remera DAYDREAM", stockQty - 40, priceTshirt, 0);
-const product10 = new Product(10, "Piluso RM", stockQty - 40, priceEmbrodery, 0);
-const product11 = new Product(11, "Piluso TXT", stockQty - 40, priceEmbrodery, 0);
-const product12 = new Product(12, "Piluso NAMJOONING", stockQty - 40, priceEmbrodery, 0);
+const product10 = new Product(10, "Piluso RM", stockQty - 40, priceEmbroidery, 0);
+const product11 = new Product(11, "Piluso TXT", stockQty - 40, priceEmbroidery, 0);
+const product12 = new Product(12, "Piluso NAMJOONING", stockQty - 40, priceEmbroidery, 0);
 let productList2 = [product1, product2, product3, product4, product5, product6, product7, product8, product9, product10, product11, product12];
 
 // Agrego los productos al DOM
