@@ -1,0 +1,86 @@
+[
+    {
+        "productId": 1,
+        "name": "Buzo MY UNIVERSE",
+        "quantity": 50,
+        "price": 3300,
+        "imgId": "product1.jpeg"
+    },
+    {
+        "productId": 2,
+        "name": "Buzo EPIPHANY",
+        "quantity": 50,
+        "price": 3300,
+        "imgId": "product2.jpeg"
+    },
+    {
+        "productId": 3,
+        "name": "Buzo HOPE WORLD",
+        "quantity": 50,
+        "price": 3300,
+        "imgId": "product3.jpeg"
+    },
+    {
+        "productId": 4,
+        "name": "Buzo MIC DROP",
+        "quantity": 50,
+        "price": 3300,
+        "imgId": "product4.jpeg"
+    },
+    {
+        "productId": 5,
+        "name": "Buzo INNER CHILD",
+        "quantity": 50,
+        "price": 3300,
+        "imgId": "product5.jpeg"
+    },
+    {
+        "productId": 6,
+        "name": "Buzo EGO",
+        "quantity": 50,
+        "price": 3300,
+        "imgId": "product6.jpeg"
+    },
+    {
+        "productId": 7,
+        "name": "Remera FIRE",
+        "quantity": 20,
+        "price": 1300,
+        "imgId": "product7.jpeg"
+    },
+    {
+        "productId": 8,
+        "name": "Remera SOOBIN",
+        "quantity": 10,
+        "price": 1300,
+        "imgId": "product8.jpeg"
+    },
+    {
+        "productId": 9,
+        "name": "Remera DAYDREAM",
+        "quantity": 10,
+        "price": 1300,
+        "imgId": "product9.jpeg"
+    },
+    {
+        "productId": 10,
+        "name": "Piluso RM",
+        "quantity": 10,
+        "price": 1000,
+        "imgId": "product10.jpeg"
+    },
+    {
+        "productId": 11,
+        "name": "Piluso TXT",
+        "quantity": 10,
+        "price": 1000,
+        "imgId": "product11.jpeg"
+    },
+    {
+        "productId": 12,
+        "name": "Piluso NAMJOONING",
+        "quantity": 10,
+        "price": 1000,
+        "imgId": "product12.jpeg"
+    }
+]

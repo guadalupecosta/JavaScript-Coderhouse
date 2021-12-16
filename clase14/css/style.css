@@ -1,0 +1,13 @@
+body {
+    font-family: 'Rubik', sans-serif;
+}
+
+.cart {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.division {
+    background-color: #d3bcf6;
+    padding: 3px;
+}
